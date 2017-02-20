@@ -9,7 +9,7 @@ public class HomePage extends WebPage {
 	public HomePage(){
 		
 		Label label = new Label("holamundo",Model.of("buenos dias"));
-				add(label);
+		add(label);
 	}
 
 }
